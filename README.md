@@ -2,7 +2,7 @@
 
 # Desafío LATAM
 
-#Links Repositorios:
+# Links Repositorios:
 
 Curriculum Vitae HTML: https://github.com/gabrielcespedes/01_d_html
 
