@@ -22,5 +22,5 @@ Grilla Bootstrap: https://gabrielcespedes.github.io/04_d_bootstrap/
 
 Página web Clases Particulares: https://gabrielcespedes.github.io/05_Desafio_Github/
 
-Página web Portafolio:
+Página web Portafolio: https://gabrielcespedes.github.io/06_portafolio/
 
