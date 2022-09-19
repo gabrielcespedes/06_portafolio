@@ -27,3 +27,15 @@ button {
 #Hero-Section img {
     width: 200px;
 }
+
+@media (max-width: 768px) {
+    nav a {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    footer {
+        font-size: 1.5rem;
+    }
+}
