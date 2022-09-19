@@ -1,0 +1,29 @@
+nav img {
+    width: 15rem;
+}
+
+#Mis-trabajos {
+    background-color: midnightblue;
+}
+
+#Hero-Section {
+    background-color:lightseagreen;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    width: 7rem;
+}
+
+.image-top {
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#Hero-Section img {
+    width: 200px;
+}
